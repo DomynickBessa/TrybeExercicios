@@ -21,5 +21,8 @@ console.log("Números Sorteados: " + numerosSorteados);
 
 for (let index = 0; index < 6; index + 1){
     console.log(numerosSorteados[index]);
+
+    for (let index2 = 0; index < 6; index2 + 1){
+        console.log(numerosSorteados[index2]);}
 }
 
