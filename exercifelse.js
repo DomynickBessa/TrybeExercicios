@@ -5,10 +5,10 @@ if ( nota >= 80 ) {
 }
 
 else if ( nota >= 60 && nota < 80 ) {
-    console.log ("Você está na lista de espera, tenha calma.");
+    console.log ("Você está na lista de espera.");
 }
 
 else (nota < 60 ); {
-    console.log("Infelizmente você reprovou.");
+    console.log("Infelizmente você reprovou .");
 }
 
